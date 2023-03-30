@@ -1,0 +1,17 @@
+.Mensaje{
+    background-color: rgb(87, 87, 87);
+    color: rgb(255, 255, 255);
+    height: 250px;
+    width: 600px;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 20px;
+    border: 5px solid rgb(133, 248, 133);
+    margin: auto;
+    padding: 2%;
+    text-align: center;
+}
+h1{
+    font-size: large;
+    color:aliceblue sold;
+}
